@@ -8,7 +8,7 @@ mvn spring-boot:run
 
 Run Spring Boot app with java -jar command:
 
-java -jar target/mywebserviceapp-0.0.1-SNAPSHOT.jar
+java -jar target/caesarstrick-0.0.1-SNAPSHOT.jar
 
 Usage:
 
